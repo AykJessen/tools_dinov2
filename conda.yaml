@@ -10,7 +10,7 @@ dependencies:
 - python=3.10
 - pytorch::pytorch=1.13.1
 - pytorch::pytorch-cuda=11.7.0
-- pytorch::torchvision=0.15.0
+- pytorch::torchvision
 - omegaconf
 - torchmetrics=0.10.3
 - fvcore
