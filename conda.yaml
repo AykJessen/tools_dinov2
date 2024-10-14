@@ -14,7 +14,7 @@ dependencies:
 - omegaconf
 - torchmetrics
 - fvcore
-- iopath=0.1.10
+- iopath
 - xformers::xformers=0.0.18
 - pip
 - pip:
